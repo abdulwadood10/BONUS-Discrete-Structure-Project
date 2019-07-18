@@ -1,4 +1,4 @@
-# Our Previous Project 
+# Our Original Project 
 
 https://github.com/abdulwadood10/edges_list
 
