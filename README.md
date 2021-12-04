@@ -25,4 +25,10 @@ We couldn't extracted all the languages because it was too many instead we selec
 
 There are two graphs in this bonus project. One graph is about the languages which got influenced by other languages and the other is about the languages which influenced other languages. 
 
-https://raw.githubusercontent.com/abdulwadood10/network-graphs-programming-languages/master/Influenced.png
+Influenced by
+![Influenced_by](https://user-images.githubusercontent.com/45212721/144710780-cfd03f72-adbc-4769-bd18-6f75614b056e.png)
+
+Influenced others
+![image](https://user-images.githubusercontent.com/45212721/144710799-e796b2b0-eb54-481c-b58d-ceb455a2280c.png)
+
+
