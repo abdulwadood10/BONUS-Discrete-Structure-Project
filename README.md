@@ -3,8 +3,8 @@
 https://github.com/abdulwadood10/edges_list
 
 
-# BONUS-Discrete-Structure-Project
-Discrete Structure Bonus Project of Programming Languages which influenced and got influenced by other languages.
+# Network Graphs Programming Languages
+Discrete Structure Network Graphs Project of Programming Languages which influenced and got influenced by other languages.
 
 # Group Members
 
