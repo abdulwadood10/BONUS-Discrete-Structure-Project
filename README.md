@@ -6,13 +6,6 @@ https://github.com/abdulwadood10/edges_list
 # Network Graphs Programming Languages
 Discrete Structure Network Graphs Project of Programming Languages which influenced and got influenced by other languages.
 
-# Group Members
-
-- Abdul Wadood 18b-026-cs(b)
-- Maarij Ahmed 18b-056-cs(b)
-- Ahmed Kamal  18b-100-cs(b)
-- Permeet Valicha 18b-039-cs(b)
-
 # Data Extraction
 
 We extracted data by searching the languages individually their influenced by and influenced. The source of the link is below.
